@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\VirtualPetShelter\VirtualPetShelter\bin\Debug\VirtualPetShelter.exe.config
+C:\Users\WeCanCodeIT\source\repos\VirtualPetShelter\VirtualPetShelter\bin\Debug\VirtualPetShelter.exe
+C:\Users\WeCanCodeIT\source\repos\VirtualPetShelter\VirtualPetShelter\bin\Debug\VirtualPetShelter.pdb
+C:\Users\WeCanCodeIT\source\repos\VirtualPetShelter\VirtualPetShelter\obj\Debug\VirtualPetShelter.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\VirtualPetShelter\VirtualPetShelter\obj\Debug\VirtualPetShelter.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\VirtualPetShelter\VirtualPetShelter\obj\Debug\VirtualPetShelter.exe
+C:\Users\WeCanCodeIT\source\repos\VirtualPetShelter\VirtualPetShelter\obj\Debug\VirtualPetShelter.pdb
